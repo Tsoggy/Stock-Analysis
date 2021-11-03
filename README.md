@@ -20,17 +20,17 @@ By analysing each stock, we are able to determine which stocks performed the bes
 
 ![Performance_2017](Resources/Performance_2017.png)
 
-   In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as youcan see in the image below:
+    In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as youcan see in the image below:
 
 ![Performance_2018](Resources/Performance_2018.png)
 
 2. Our original code created a single array: ticker. For our other variables: volume, starting price, ending price, we did not create arrays. In addition, though we did initialize our totalVolume as 0, we didn't declare it as a specific type of variable. Declaring a specific type of variable for totalVolume would decrease the amount of bytes used. In our refactored code, we declared our tickerVolume as Long, which uses far fewer bytes than as variant. We created three additional arrays, which are faster to loop through than ranges. As a result, the amount of time that it took for the macro to run was significantly decreased.
 
-  For example, please see below for the run-time of our original code for the year 2017:
-![VBA_2017_Original_Outcome](Resources/VBA_2017_Original_Outcome.png)
+    For example, please see below for the run-time of our original code for the year 2017:
+   ![VBA_2017_Original_Outcome](Resources/VBA_2017_Original_Outcome.png)
 
-   Please see below for the run-time of the refactored code for the year 2017:
-![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+    Please see below for the run-time of the refactored code for the year 2017:
+   ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 ## Summary
 
