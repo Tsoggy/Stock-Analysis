@@ -7,8 +7,8 @@
 #### Purpose
 The purpose of this project is twofold:
 1. The first purpose is to analyze stock data for twelve stocks over a period of two years (2017 and 2018). We want to determine the success of each stock for each year, by looking at:
-  - the value of the stock at the end of each year and compare it to the value of at the beginning of the year
-  - the amount of trade volume for each stock
+   - the value of the stock at the end of each year and compare it to the value of at the beginning of each year
+    - the amount of trade volume for each stock
 By analysing each stock, we are able to determine which stocks performed the best each year, so as to inform us which stock we may want to invest in.
 2. The second purpose is to refactor, or edit, our original code to be more efficient and to run faster.
 
