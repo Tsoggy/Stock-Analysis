@@ -18,8 +18,11 @@ By analysing each stock, we are able to determine which stocks performed the bes
 
 1. Comparing 2017 to 2018:
       - In the year 2017, a majority of the stocks (11 of 12), had a positive rate of return. Some of these stocks performed much better than others. Only one stock declined in value (TERP), as you can see in the image below:
+
       ![Performance_2017](Resources/Performance_2017.png)
+
       - In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as you can see in the image below:
+
       ![Performance_2018](Resources/Performance_2018.png)
 
 2. Our original code created a single array: ticker. For our other variables: volume, starting price, ending price, we did not create arrays. In addition, though we did initialize our totalVolume as 0, we didn't declare it as a specific type of variable. Declaring a specific type of variable for totalVolume would decrease the amount of bytes used. In our refactored code, we declared our tickerVolume as Long, which uses far fewer bytes than as variant. We created three additional arrays, which are faster to loop through than ranges. As a result, the amount of time that it took for the macro to run was significantly decreased.
