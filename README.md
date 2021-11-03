@@ -20,7 +20,7 @@ By analysing each stock, we are able to determine which stocks performed the bes
 
 ![Performance_2017](Resources/Performance_2017.png)
 
-    In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as youcan see in the image below:
+  In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as youcan see in the image below:
     
 ![Performance_2018](Resources/Performance_2018.png)
 
