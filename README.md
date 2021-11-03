@@ -16,11 +16,12 @@ By analysing each stock, we are able to determine which stocks performed the bes
 
 #### Analysis
 
-1. In the year 2017, a majority of the stocks (11 of 12), had a positive rate of return. Some of these stocks performed much better than others. Only one stock declined in value (TERP), as you can see in the image below:
+1. Comparing 2017 to 2018:
+      - In the year 2017, a majority of the stocks (11 of 12), had a positive rate of return. Some of these stocks performed much better than others. Only one stock declined in value (TERP), as you can see in the image below:
 
 ![Performance_2017](Resources/Performance_2017.png)
 
-  In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as youcan see in the image below:
+      - In the year 2018, a majority of these same stocks declined in value. Only two of the stocks had a positive rate of return, as youcan see in the image below:
     
 ![Performance_2018](Resources/Performance_2018.png)
 
